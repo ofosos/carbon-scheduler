@@ -1,4 +1,4 @@
-numpy~=1.22.3
+numpy~=1.26.0
 pandas~=1.4.1
 requests~=2.27.1
 python-crontab~=2.6.0
